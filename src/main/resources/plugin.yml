@@ -1,0 +1,3 @@
+name: test_record
+version: '${project.version}'
+main: dev.tatsi.test_replay_callback.Test_record
